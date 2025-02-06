@@ -53,3 +53,17 @@ div#root {
   color: #fff;
   border-radius: 10px;
 }
+
+.gameWon {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.instructions {
+  margin-top: 20px;
+}
+
+.timer {
+  margin-top: 40px;
+  font-size: 20px;
+}
